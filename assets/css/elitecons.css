@@ -7853,7 +7853,7 @@ html.lenis {
     align-items: center;
     justify-content: center;
     right: 40px;
-    bottom: -30px;
+    bottom: 0px;
 }
 
 .testimonial-two__nav .swiper-button-prev1,
@@ -7863,7 +7863,7 @@ html.lenis {
     justify-content: center;
     align-items: center;
     width: 60px;
-    height: 60px;
+    height: 50px;
     border: 1px solid var(--elitecons-bdr-color);
     color: var(--elitecons-black);
     background-color: var(--elitecons-white);
